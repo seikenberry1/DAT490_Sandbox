@@ -1,5 +1,4 @@
 Hello World!
-vsithamb_new_branches
 =======
 This is a change in newfile.txt - Vijay
 I am adding some text to this file!
