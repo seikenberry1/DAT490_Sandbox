@@ -1,2 +1,3 @@
 Hello World!
-I am adding some text to this file!
+I am adding some text to this file!Content for the new file - Vijay
+This is a change in newfile.txt - Vijay
