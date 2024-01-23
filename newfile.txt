@@ -1,5 +1,16 @@
 Hello World!
+=======
+This is a change in newfile.txt - Vijay
 I am adding some text to this file!
 Hi there, I am also adding some text
 
-Oh boy, do I love when it rains!
+here is some text from Emily G!!
+
+and more text from Ben B
+
+arbitrary change - Eric Lin
+Hello Eric Lin, I have added a new text - Theyab Alrashdi
+
+This is Brodie McCarthy's text too!
+
+This is Kishan Bhakta's text as well.
