@@ -1,4 +1,6 @@
 Hello World!
+=======
+This is a change in newfile.txt - Vijay
 I am adding some text to this file!
 Hi there, I am also adding some text
 
@@ -11,4 +13,4 @@ Hello Eric Lin, I have added a new text - Theyab Alrashdi
 
 This is Brodie McCarthy's text too!
 
-This is Kishan Bhakta's text as well! :)
+This is Kishan Bhakta's text as well.
