@@ -1,3 +1,5 @@
 Hello World!
 I am adding some text to this file!
 Hi there, I am also adding some text
+
+Oh boy, do I love when it rains!
