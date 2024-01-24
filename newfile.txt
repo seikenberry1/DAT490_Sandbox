@@ -20,6 +20,7 @@ more text!
 main
 
 More change -Sung Park
->>>>>>> 2f16078fd1f554807f9a3ffd92fb387c112f5df0
-
 hope you're having a good day - Amritha K 
+=======
+This is Kishan Bhakta's text as well.
+
