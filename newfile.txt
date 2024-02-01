@@ -13,11 +13,4 @@ Hello Eric Lin, I have added a new text - Theyab Alrashdi
 
 This is Brodie McCarthy's text too!
 
-Caden Truelick added text here!
-
-New text
-more text!
-main
-
-More change -Sung Park
->>>>>>> 2f16078fd1f554807f9a3ffd92fb387c112f5df0
+This is Kishan Bhakta's text as well.
